@@ -1,0 +1,51 @@
+#page-wrap {
+margin: 20px;
+padding: 10px;
+}
+
+a.close {
+position: absolute;
+right: 10px;
+bottom: 10px;
+display: block;
+width: 20px;
+height: 21px;
+background: url(istockphoto-1469253548-612x612.jpg);
+text-indent: -9999px;
+}
+
+.photo_slider_img {
+width: 100px;
+height: 100px;
+margin-bottom: 5px;
+overflow: hidden;
+}
+
+td {
+vertical-align: top;
+}
+
+.photo_slider {
+position: relative;
+width: 100px;
+height: 130px;
+padding: 10px;
+border: 1px solid black;
+overflow: hidden;
+margin: 25px 10px 10px 10px;
+background: white;
+float: left;
+}
+
+.info_area {
+display:none;
+}
+
+.more_info {
+display: block;
+width: 89px;
+height: 26px;
+background: url(343px-Delfín.jpg);
+text-indent: -9999px;
+cursor: pointer;
+}
